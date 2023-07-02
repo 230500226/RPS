@@ -5,6 +5,9 @@
 // Date: 02/07/2023
 
 /************* HEADER FILES **************/
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 #include "cpu.h"
 #include "AsciiArt.h"
 
