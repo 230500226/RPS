@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/snowy/Documents/GitHub/RPS",
-      "program": "c:/Users/snowy/Documents/GitHub/RPS/build/Debug/outDebug",
+      "cwd": "c:/players/snowy/Documents/GitHub/RPS",
+      "program": "c:/players/snowy/Documents/GitHub/RPS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
