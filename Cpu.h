@@ -1,5 +1,5 @@
-#ifndef BOT_H
-#define BOT_H
+#ifndef CPU_H
+#define CPU_H
 
 char getCpuMove(char previousUserMove);
 

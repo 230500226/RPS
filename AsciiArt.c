@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "Bot.h"
+#include "cpu.h"
 #include "AsciiArt.h"
 
+// Function to print ASCII art for rock
 void rock(){
     printf("    _______\n");
     printf("---'   ____)   \n");
@@ -13,6 +14,8 @@ void rock(){
     printf("---.__(___)    \n");
     printf("\n");
 }
+
+// Function to print ASCII art for scissors
 void scissors(){
     printf("    _______\n");
     printf("---'   ____)____\n");
@@ -21,6 +24,8 @@ void scissors(){
     printf("      (____)      \n");
     printf("---.__(___)       \n");
 }
+
+// Function to print ASCII art for paper
 void paper(){
     printf("     _______    \n");
     printf("---'    ____)____\n");
@@ -30,6 +35,8 @@ void paper(){
     printf("---.__________)  \n");
     printf("\n");
 }
+
+// Function to print ASCII art for "vs"
 void vs(){
     printf("\t\t|       |    |||||||\n");
     printf("\t\t|       |   |       \n");

@@ -58,7 +58,7 @@
   "files.associations": {
     "stdlib.h": "c",
     "stdio.h": "c",
-    "bot.h": "c"
+    "cpu.h": "c"
   },
   "code-runner.executorMap": {
     "c": "cd $dir ; if ($?) { gcc *.c -o $fileNameWithoutExt -lpdcurses -DNCURSES_STATIC} ; if ($?) { .\\$fileNameWithoutExt }"
