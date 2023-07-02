@@ -1,7 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+/************* AUTHOR INFO **************/
+// Name: Shahied Rustin
+// Student No.: 230500226
+// Course Title: Software Design 1 (SDN150S)
+// Date: 02/07/2023
+
+/************* HEADER FILE ***************/
 #include "cpu.h"
+
+/********** FUNCTION IMPLEMENTATION **********/
 
 // Function to get the CPU's move based on the previous player move
 char getCpuMove(char previousplayerMove) {

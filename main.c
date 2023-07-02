@@ -1,8 +1,17 @@
+/************* AUTHOR INFO **************/
+// Name: Shahied Rustin
+// Student No.: 230500226
+// Course Title: Software Design 1 (SDN150S)
+// Date: 02/07/2023
+
+/************* HEADER FILES ***************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include "cpu.h"
 #include "AsciiArt.h"
+
+/********** FUNCTION IMPLEMENTATION **********/
 
 // Function to determine the winner based on player and CPU moves
 char getWinner(char playerMove, char cpuMove);
